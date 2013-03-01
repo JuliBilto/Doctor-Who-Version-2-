@@ -1,15 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Dalek</title>
-</head>
-
-<body>
-<h1>Doctor Who Website
-</h1>
-<h2>Dalek</h2>
-<p>This is the Dalek page. </p><!-- #BeginLibraryItem "/Library/links.lbi" --><h2>Navigation</h2>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><h2>Navigation</h2>
 <ul>
   <li><a href="../index.html">Home Page </a></li>
 </ul>
@@ -37,10 +26,9 @@
 </ul>
 <h2>Enemies</h2>
 <ul>
-  <li><a href="dalek.html">Dalek</a></li>
-  <li><a href="the-silence.html">The Silence</a></li>
-  <li><a href="zygons.html">Zygons </a></li>
-  <li><a href="the-master.html">The Master </a></li>
-  <li><a href="cyberman.html">Cyberman </a></li>
-</ul><!-- #EndLibraryItem --></body>
-</html>
+  <li><a href="../enemies/dalek.html">Dalek</a></li>
+  <li><a href="../enemies/the-silence.html">The Silence</a></li>
+  <li><a href="../enemies/zygons.html">Zygons </a></li>
+  <li><a href="../enemies/the-master.html">The Master </a></li>
+  <li><a href="../enemies/cyberman.html">Cyberman </a></li>
+</ul>
